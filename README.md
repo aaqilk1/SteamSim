@@ -1,1 +1,33 @@
 # flightsim
+
+
+So this begins the journey of the "SteamSim" 
+
+A few months ago, I came across a listing on OfferUp for $50, an ATC-710 IFR flight trainer. 
+
+
+![9f5a934767244e75a8f03baf481bd832](https://github.com/user-attachments/assets/a6201854-374a-4962-afd6-09e07372d899)
+(actual photo of the OfferUp ad) 
+
+Down the rabbit hole we went – to find that this was from the 70's-80's and was used for IFR training outside the aircraft at flight schools. It originally came with a set of location cards, a plotter, an instructor station and an tape deck/audio system.
+
+From the limited information I could gather, a training flight would go something like this: 
+1. You would insert the appropriate location card in the main simulator slot and insert the corresponding audio track in the tape deck.
+2. You would receive the "brief" with instructions and flight plan from the instructor.
+
+3. You would hand-fly the route, following ATC directions from the recording.
+4. You would land and your course (and course deviations) would be printed on the plotter for grading.
+
+Here are some images from a complete eBay listing that recently sold, showing the instructor console, audio deck and plotter (and rudder pedals!)
+
+![s-l1600-2](https://github.com/user-attachments/assets/91b03ace-5e14-46f3-9bcd-1e7880fa28be)
+![s-l1600-7](https://github.com/user-attachments/assets/944959ad-e845-447e-9c65-dbf521b98ccf)
+![s-l1600-9](https://github.com/user-attachments/assets/11a204d7-cd12-47c0-b41e-6663272a88f1)
+![s-l1600-3](https://github.com/user-attachments/assets/093e1bf7-00a6-4339-ab34-b75bf61d3f26)
+
+and some videos showing them in action (an ATC-510 and an ATC-810) 
+https://www.youtube.com/watch?v=MTD7QKhvRBQ
+https://youtu.be/5sY2O8oLVdU?si=mMnM1IpyzYiHHZmN
+
+Unfortunately, my one was missing all of the accessories and some of the plugs in the back were broken. Thus, after finally getting it open, I decided the best way of preventing this from becoming another piece of e-waste from a bygone era would be to try to interface the original steam gauges with an Arduino-based system that could be integrated with Microsoft Flight Simulator. FS2020 is great, as it handles all of the simulation/physics/gauge animation and has a really robust system for interfacing with plug-ins and flight sim hardware. 
+
