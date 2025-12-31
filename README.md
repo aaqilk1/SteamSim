@@ -40,6 +40,9 @@ Another one (ATC-610) for sale in Alta Loma shows some of the manuals that were 
 ![edabcbcbc0594947b969b3b16c114725](https://github.com/user-attachments/assets/5673297b-884b-4a68-9ba6-aa888e2a457d)
 ![c1a266bb3fd14ff3b35d9121f1cededb](https://github.com/user-attachments/assets/b43e7dc5-f673-4be5-950a-5d3df8647e5a)
 ![81d083e335374cb7914858d93eba5654](https://github.com/user-attachments/assets/1c2290f9-8bb1-4815-a1a9-5f4d9fb28176)
+Interesting note – ATC stands for "Analog Training Computers" and not "Air Traffic Control" for these devices. 
+Hopefully these images will help provide a little more background in case someone comes across one of these units and wants to restore it to original condition. I'll try to 
+add any PDFs/manuals as I come across them. 
 
 
 and some videos showing them in action (an ATC-510 and an ATC-810) 
