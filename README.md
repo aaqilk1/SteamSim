@@ -9,7 +9,7 @@ A few months ago, I came across a listing on OfferUp for $50, an ATC-710 IFR fli
 ![9f5a934767244e75a8f03baf481bd832](https://github.com/user-attachments/assets/a6201854-374a-4962-afd6-09e07372d899)
 (actual photo of the OfferUp ad) 
 
-Down the rabbit hole we went – to find that this was from the 70's-80's and was used for IFR training outside the aircraft at flight schools. It originally came with a set of location cards, a plotter, an instructor station and an tape deck/audio system.
+Down the rabbit hole we went – to find that this was from the 70's-80's and was used for IFR training outside the aircraft at flight schools. It originally came with a set of location cards, a plotter, an instructor station and a tape deck/audio system.
 
 Here is an image from the website of Lincoln Flight Center (http://www.lincolnflight.com/facilities/facilities.html) showing their ATC-710 
 
