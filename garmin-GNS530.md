@@ -1,3 +1,5 @@
+# Adding a Garmin GNS530 
+
 The ATC-710 had a really old style radio system on the top right side that I wanted to modify, since most of the electronics on the back 
 were so tightly interconnected, it would have been a royal pain to try to assign arduino pins to each of the few available frequencies. 
 
