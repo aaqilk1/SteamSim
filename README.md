@@ -45,7 +45,27 @@ Hopefully these images will help provide a little more background in case someon
 add any PDFs/manuals as I come across them. 
 
 
-and some videos showing them in action (an ATC-510 and an ATC-810) 
+Montreal Aeroplus (https://montrealaeroplus.com/sims_for_sale.htm) has a page showing their now-sold ATC-710 and ATC-810 simulator setups. I was able to locate an image of the instructor fault panel and some removed flight instruments. Interestingly enough, it seems
+that the ATC-810 used more complex and realistic instruments for all major gauges (see below for some pictures). 
+
+![ATC810_FaultPanels1](https://github.com/user-attachments/assets/b82875ef-9a12-45db-b2e8-331c6f19428c)
+
+A morse code add-on kit
+
+![ATC810_MorseCodeKits1](https://github.com/user-attachments/assets/0fd547c2-8d55-4237-8ce8-99183afdd5d1)
+
+And the gauges: 
+
+![ATC810_sn105_AI1](https://github.com/user-attachments/assets/7d88f676-7bbe-429c-b271-597a162a7f9f)
+![ATC810_sn105_ALT1](https://github.com/user-attachments/assets/80952afe-0cdb-4cbf-99b0-c850da38bb3c)
+![ATC810_sn105_ASI1](https://github.com/user-attachments/assets/041b08e2-f9d7-415c-80ff-2f4ef3373dfd)
+![ATC810_sn105_VSI1](https://github.com/user-attachments/assets/b0c9b1f4-5563-43b6-b1af-8651201122bd)
+
+
+
+
+
+Here are some videos showing them in action (an ATC-510 and an ATC-810) 
 
 
 [![YouTube Video](https://img.youtube.com/vi/MTD7QKhvRBQ/0.jpg)](https://www.youtube.com/watch?v=MTD7QKhvRBQ)
