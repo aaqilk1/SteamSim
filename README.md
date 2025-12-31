@@ -34,6 +34,13 @@ This one is from an OfferUp ad currently for sale near LA that shows the instruc
 
 ![08101d6ada8c4326a3c80037370ebe64](https://github.com/user-attachments/assets/87291b17-149a-4662-bd75-424e2a0521e5)
 
+Another one (ATC-610) for sale in Alta Loma shows some of the manuals that were probably included with a complete set. 
+
+![f6cf95b2635842328d702e06d5c6731c](https://github.com/user-attachments/assets/0009c6b5-a4a8-4557-a2f8-093cc2527b63)
+![edabcbcbc0594947b969b3b16c114725](https://github.com/user-attachments/assets/5673297b-884b-4a68-9ba6-aa888e2a457d)
+![c1a266bb3fd14ff3b35d9121f1cededb](https://github.com/user-attachments/assets/b43e7dc5-f673-4be5-950a-5d3df8647e5a)
+![81d083e335374cb7914858d93eba5654](https://github.com/user-attachments/assets/1c2290f9-8bb1-4815-a1a9-5f4d9fb28176)
+
 
 and some videos showing them in action (an ATC-510 and an ATC-810) 
 
